@@ -4,3 +4,4 @@
 사용 기술 : C++, OpenGL  
 제작 기간 : 1주 미만  
 기능 소개 : Shader를 사용하여 Waving Pattern을 구현  
+실행 영상 : https://youtu.be/xkW_CuW5lGE
